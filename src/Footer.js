@@ -6,12 +6,12 @@ export default function Footer() {
       {" "}
       <p>
         <a
-          href="https://github.com/jodiemay22/vanilla-weather-app"
+          href="https://github.com/jodiemay22/weather-react"
           target="_blank"
           rel="noreferrer"
         >
           Open Source Code
-        </a>
+        </a>{" "}
         by Jodie Lancaster
       </p>
     </small>
